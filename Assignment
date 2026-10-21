@@ -1,0 +1,25 @@
+QUESTION 01!!
+
+Ek shopping bill calculator banao jahan user quantity enter kare aur total bill calculate ho.
+
+
+
+Requirements:
+
+1. Product ki price HTML mein show karo, for example Rs. 250.
+
+2. Quantity ke liye input aur Calculate button banao.
+
+3. Button par addEventListener() lagao.
+
+4. Quantity empty ya zero se kam ho toh error show karo.
+
+5. Valid quantity ko number mein convert karo.
+
+6. Total calculate karo: price × quantity.
+
+7. Agar total Rs. 1,000 ya zyada ho, toh 10% discount apply karo.
+
+8. Final bill aur discount ko console me show kro.
+
+Revision: Variables, numbers, input values, arithmetic operators, conditions, DOM manipulation aur event handling
